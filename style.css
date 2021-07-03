@@ -115,3 +115,9 @@ header{
     border-color: rgba(0 0 0 / 0.7);
     transition: all 0.2s ease;
 }
+
+.cta-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
